@@ -1,2 +1,2 @@
-FROM hshar/webapp
+FROM amithaws/webapp
 ADD . /var/www/html
